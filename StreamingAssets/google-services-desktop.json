@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1019965036154",
+    "firebase_url": "https://equationninja-default-rtdb.firebaseio.com",
+    "project_id": "equationninja",
+    "storage_bucket": "equationninja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019965036154:android:c777c3167ba92b8f0b0dc3",
+        "android_client_info": {
+          "package_name": "com.gamesTavern.equationNinja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019965036154-lq6jc5arns7ci7ktusqfaqssb449jn8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbOdLVmRODcNkcrQL0MGqeCsEIL9WM5pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019965036154-lq6jc5arns7ci7ktusqfaqssb449jn8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
